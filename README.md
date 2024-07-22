@@ -30,7 +30,7 @@ This project is a web application for a chatbot that answers questions related t
 1. **Clone the Repository**
    - Clone the repository containing the code to your local machine:
      ```bash
-     git clone https://github.com/Anshika32/AI_Intern_Assignment_Chatbot.git
+     git clone https://github.com/Anshika32/AI_Assignment_Chatbot.git
      ```
 
 2. **Install Required Libraries**
